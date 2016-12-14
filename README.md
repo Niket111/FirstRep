@@ -1,2 +1,2 @@
 # FirstRep
-My first repo
+This repo holds some preliminary files. 
